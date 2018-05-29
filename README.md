@@ -6,3 +6,7 @@ docker file:
 4) Copy local files to working folder.
 5) Expose the port of docker image.
 6) Execute the command.
+
+
+build docker file.
+start docker file.
