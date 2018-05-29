@@ -1,0 +1,1 @@
+docker build -f Dockerfile -t docker-local.demo/my-nodejs-master --no-cache .
